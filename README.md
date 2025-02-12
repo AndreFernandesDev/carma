@@ -1,6 +1,6 @@
-## Carma
+# Carma
 
-# Good to know
+## Good to know
 
 There is a bit of javascript on a static file in the public folder to give us the option to toggle a couple of custom attributes without using the client rendering providing by Next.js. Helpfull in our use case to keep the header crawable for SEO.
 
