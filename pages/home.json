@@ -1,0 +1,45 @@
+{
+  "hero": {
+    "heading": "Nature-based climate-action",
+    "description": "Good for business, the planet and UK veterans.",
+    "cta": "Get Started Today",
+    "logos": [
+      {
+        "src": "logo_sample.png",
+        "description": "Starbucks"
+      },
+      {
+        "src": "logo_sample.png",
+        "description": "Starbucks"
+      },
+      {
+        "src": "logo_sample.png",
+        "description": "Starbucks"
+      },
+      {
+        "src": "logo_sample.png",
+        "description": "Starbucks"
+      },
+      {
+        "src": "logo_sample.png",
+        "description": "Starbucks"
+      },
+      {
+        "src": "logo_sample.png",
+        "description": "Starbucks"
+      },
+      {
+        "src": "logo_sample.png",
+        "description": "Starbucks"
+      },
+      {
+        "src": "logo_sample.png",
+        "description": "Starbucks"
+      },
+      {
+        "src": "logo_sample.png",
+        "description": "Starbucks"
+      }
+    ]
+  }
+}
